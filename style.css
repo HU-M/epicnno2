@@ -1,0 +1,14 @@
+.heading {
+    font-size: 23%;
+    width: 40px;
+    height: 40px;
+    border-color: rgb(252, 7, 7);
+}
+
+canvas {
+    background-color: chartreuse;
+    padding-left: 25%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-right: 25%;
+}
